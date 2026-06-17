@@ -32,4 +32,4 @@ Analyze traffic accident data to identify patterns related to road conditions, w
 
 ### Outcome
 
-Performed exploratory data analysis on traffic accident data to uncover trends and contributing factors. Created visualizations to identify accident hotspots and understand the impact of road conditions, weather, and time on accident occurrences. 🚦📊
+Performed exploratory data analysis on traffic accident data to uncover trends and contributing factors. Created visualizations to identify accident hotspots and understand the impact of road conditions, weather, and time on accident occurrences.
